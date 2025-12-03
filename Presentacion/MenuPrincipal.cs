@@ -19,7 +19,7 @@ namespace SisttAsist.Presentacion
 
         private void MenuPrincipal_Load(object sender, EventArgs e)
         {
-
+            panelBienvenida.Dock = DockStyle.Fill;
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -28,6 +28,16 @@ namespace SisttAsist.Presentacion
         }
 
         private void panel6_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label4_Click(object sender, EventArgs e)
         {
 
         }
