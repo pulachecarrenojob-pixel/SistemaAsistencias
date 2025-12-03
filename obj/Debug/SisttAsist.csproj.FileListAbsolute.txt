@@ -1,0 +1,10 @@
+D:\C#\Sistema de Asistencias\SisttAsist\bin\Debug\SisttAsist.exe.config
+D:\C#\Sistema de Asistencias\SisttAsist\bin\Debug\SisttAsist.exe
+D:\C#\Sistema de Asistencias\SisttAsist\bin\Debug\SisttAsist.pdb
+D:\C#\Sistema de Asistencias\SisttAsist\obj\Debug\SisttAsist.csproj.AssemblyReference.cache
+D:\C#\Sistema de Asistencias\SisttAsist\obj\Debug\SisttAsist.Presentacion.MenuPrincipal.resources
+D:\C#\Sistema de Asistencias\SisttAsist\obj\Debug\SisttAsist.Properties.Resources.resources
+D:\C#\Sistema de Asistencias\SisttAsist\obj\Debug\SisttAsist.csproj.GenerateResource.cache
+D:\C#\Sistema de Asistencias\SisttAsist\obj\Debug\SisttAsist.csproj.CoreCompileInputs.cache
+D:\C#\Sistema de Asistencias\SisttAsist\obj\Debug\SisttAsist.exe
+D:\C#\Sistema de Asistencias\SisttAsist\obj\Debug\SisttAsist.pdb
