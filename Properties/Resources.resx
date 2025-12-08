@@ -121,31 +121,49 @@
   <data name="naranja" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\naranja.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="aficionados (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\aficionados (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="lupa (2)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\lupa (2).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="aficionados" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\aficionados.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="logoJib4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\logoJib4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="4-estaciones" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\4-estaciones.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="cliente" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\cliente.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="archivo-de-base-de-datos" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\archivo-de-base-de-datos.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="lupa (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\lupa (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="archivo-de-base-de-datos1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\archivo-de-base-de-datos1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="aficionados (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\aficionados (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="lupa" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\lupa.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cliente" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cliente.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="hora" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\hora1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="mas" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\mas.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="verde" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\verde.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="gestion-de-datos" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\gestion-de-datos.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="logoJib4" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\logoJib4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="atras" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\atras.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

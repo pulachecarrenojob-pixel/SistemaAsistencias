@@ -8,4 +8,4 @@ D:\C#\Sistema de Asistencias\SisttAsist\obj\Debug\SisttAsist.csproj.GenerateReso
 D:\C#\Sistema de Asistencias\SisttAsist\obj\Debug\SisttAsist.csproj.CoreCompileInputs.cache
 D:\C#\Sistema de Asistencias\SisttAsist\obj\Debug\SisttAsist.exe
 D:\C#\Sistema de Asistencias\SisttAsist\obj\Debug\SisttAsist.pdb
-D:\C#\Sistema de Asistencias\SisttAsist\obj\Debug\SisttAsist.Presentacion.pruebaControl.resources
+D:\C#\Sistema de Asistencias\SisttAsist\obj\Debug\SisttAsist.Presentacion.personal.resources
