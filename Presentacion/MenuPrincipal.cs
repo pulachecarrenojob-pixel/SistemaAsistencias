@@ -44,8 +44,7 @@ namespace SisttAsist.Presentacion
 
         private void btnPersonal_Click(object sender, EventArgs e)
         {
-        
-
+          
 
         }
     }

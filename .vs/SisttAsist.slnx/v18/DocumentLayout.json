@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\C#\\Sistema de Asistencias\\SisttAsist\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{858940D5-AD60-4C0C-87BD-06E35103A9FE}|SisttAsist.csproj|d:\\c#\\sistema de asistencias\\sisttasist\\presentacion\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{858940D5-AD60-4C0C-87BD-06E35103A9FE}|SisttAsist.csproj|solutionrelative:presentacion\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{858940D5-AD60-4C0C-87BD-06E35103A9FE}|SisttAsist.csproj|d:\\c#\\sistema de asistencias\\sisttasist\\presentacion\\personal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{858940D5-AD60-4C0C-87BD-06E35103A9FE}|SisttAsist.csproj|solutionrelative:presentacion\\personal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
@@ -31,6 +35,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "MenuPrincipal.cs",
+              "DocumentMoniker": "D:\\C#\\Sistema de Asistencias\\SisttAsist\\Presentacion\\MenuPrincipal.cs",
+              "RelativeDocumentMoniker": "Presentacion\\MenuPrincipal.cs",
+              "ToolTip": "D:\\C#\\Sistema de Asistencias\\SisttAsist\\Presentacion\\MenuPrincipal.cs",
+              "RelativeToolTip": "Presentacion\\MenuPrincipal.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAYwDAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T23:03:01.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "personal.cs [Dise\u00F1o]",
               "DocumentMoniker": "D:\\C#\\Sistema de Asistencias\\SisttAsist\\Presentacion\\personal.cs",
               "RelativeDocumentMoniker": "Presentacion\\personal.cs",
@@ -42,7 +59,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\C#\\Sistema de Asistencias\\SisttAsist\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -50,18 +67,20 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-03T04:16:51.739Z"
+              "WhenOpened": "2025-12-03T04:16:51.739Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "MenuPrincipal.cs [Dise\u00F1o]",
               "DocumentMoniker": "D:\\C#\\Sistema de Asistencias\\SisttAsist\\Presentacion\\MenuPrincipal.cs",
               "RelativeDocumentMoniker": "Presentacion\\MenuPrincipal.cs",
               "ToolTip": "D:\\C#\\Sistema de Asistencias\\SisttAsist\\Presentacion\\MenuPrincipal.cs [Dise\u00F1o]",
               "RelativeToolTip": "Presentacion\\MenuPrincipal.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-30T21:35:41.741Z"
+              "WhenOpened": "2025-11-30T21:35:41.741Z",
+              "EditorCaption": " [Dise\u00F1o]"
             }
           ]
         }
